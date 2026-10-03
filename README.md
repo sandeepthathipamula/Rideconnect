@@ -22,7 +22,7 @@ RideConnect provides a hybrid ride-booking system that can operate through inter
 - Python
 - MySQL
 
-#Future Enhancements:
+## Future Enhancements
 • AI Voice Agent for ride booking via phone calls
 • Satellite-based communication for no-network regions
 • SMS-based offline ride requests
